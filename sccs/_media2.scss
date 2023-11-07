@@ -1,0 +1,141 @@
+@media (max-width: 768px){
+    .container {
+        margin: 0 auto;
+        max-width: 425px;
+    }
+    .section6{
+        margin-top: 25px;
+        #ffooto{
+            display: none;
+        }
+        .ff1{
+            display: inline-block;
+            #gr{
+                width: 70%;
+            }
+        }
+            #tx1 {
+                font-size: 25px;
+            }
+    }
+    .footer{
+        margin-right: 2px;
+        margin-top: 50px;
+        height: 100px;
+        #foto{
+            width: 50%;
+        }
+        &__block{
+            width: 50%;
+        }
+        &__text{
+            margin-right: 25px;
+            font-size: 13px;
+        }
+    }
+    .section5{
+        #tx1{
+            font-size: 25px;
+        }
+    }
+    .section3{
+        #fotos3{
+            width: 65%;
+        }
+        #tx1{
+            font-size: 25px;
+        }
+    }
+    .section2{
+        #Foto1{
+            width: 65%;
+        }
+        #tx1{
+            font-size: 25px;
+        }
+    }
+    .section1{
+        #h51{
+            font-size: 15px;
+            line-height: 20px;
+            width: 395px;
+        }
+        #pp{
+            font-size: 10px;
+            line-height: 14px;
+            width: 472px;
+        }
+    }
+}
+@media (min-width: 320px) and (max-width:425px){
+    .container{
+        margin: 0 auto;
+        max-width: 300px;
+    }
+    .footer{
+        margin-top: 30px;
+        height: 80px;
+        #foto{
+            width: 50%;
+        }
+        &__block{
+            width: 2%;
+            &__flek{
+                margin-top: 20px;
+            }
+        }
+        &__text{
+            margin-right: 20px;
+            font-size: 12px;
+        }
+    }
+    .section6{
+        margin-top: 20px;
+        .ff1{
+            display: inline-block;
+            #gr{
+            width: 65%;
+        }
+    }
+            #tx1 {
+                font-size: 20px;
+            }
+    }
+    .section5{
+        #tx1{
+            font-size: 20px;
+        }
+    }
+    .section3{
+        #fotos3{
+            width: 55%;
+        }
+        #tx1{
+            font-size: 20px;
+        }
+    }
+    .section2{
+        #Foto1{
+            width: 55%;
+        }
+        #tx1{
+            font-size: 20px;
+        }
+    }
+    .section1{
+        #h51{
+            font-size: 8px;
+            line-height: 16px;
+            width: 385px;
+        }
+        #pp{
+            font-size: 8px;
+            line-height: 12px;
+            width: 462px;
+        }
+    }
+    .navbar .container-fluid {
+        padding-right: 48px;
+        padding-left: 48px;
+    }
+}

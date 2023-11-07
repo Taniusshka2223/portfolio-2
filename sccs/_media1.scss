@@ -1,0 +1,161 @@
+@media (max-width: 1205px){
+    .container {
+        margin: 0 auto;
+        max-width: 1024px;
+    }
+    .section0{
+        #icon0{
+            width: 85%;
+        }
+        .navbar .nav-link {
+        font-size: 13px;
+        }
+        .btn{
+            --bs-btn-font-size: 14px;
+        }
+    }
+    .section1{
+        #h51{
+            font-size: 36px;
+            line-height: 38px;
+        }
+        #pp{
+            font-size: 16px;
+            line-height: 20px;
+            width: 488px;
+        }
+        .act1{
+            display: flex;
+            justify-content: center;
+        }
+        .w-100{
+            width: 95%;
+        }
+        .carousel-item.active, .carousel-item-next, .carousel-item-prev {
+            display: flex;
+            justify-content: center;
+        }
+}
+    .section2{
+        .tab-content{
+            .active{
+                display: flex;
+                justify-content: center;
+            }
+        }
+        #Foto1{
+            width: 90%;
+        }
+        #tx1{
+            font-size: 35px;
+            width: 492px;
+        }
+}
+    .section3{
+        #fotos3{
+            width: 50%;
+        }
+        #tx1{
+            font-size: 35px;
+        }
+    }
+    .section5{
+        #tx1{
+            font-size: 35px;
+            margin-top: 25px;
+        }
+    }
+    .section6{
+        #ffooto{
+        #sec6{
+            width: 95%;
+            display: flex;
+        }
+    }
+    #tx1{
+        font-size: 35px;
+    }
+    }
+    .footer{
+        margin-top: 40px;
+        height: 85px;  
+        #foto{
+            width: 85%;
+        }
+        &__block{
+            width: 18%;
+        }
+        &__text{
+            margin-right: 90px;
+            font-size: 18px;
+        }
+    }
+
+}
+
+@media (max-width: 1024px){ 
+    .container { 
+        margin: 0 auto; 
+        max-width: 740px; 
+    } 
+    .footer{
+        margin-top: 50px;
+        height: 100px;
+        #foto{
+            width: 65%;
+        }
+        &__block{
+            width: 18%;
+        }
+        &__text{
+            margin-right: 28px;
+            font-size: 16px;
+        }
+    }
+    .section6{
+        #ffooto{
+        #sec6{
+            width: 85%;
+        }
+    }
+        #tx1 {
+            font-size: 30px;
+        }
+    }
+    .section5{
+        #tx1{
+            font-size: 30px;
+            margin-top: 10px;
+        }
+    }
+    .section3{
+        #fotos3{
+            width: 40%;
+        }
+        #tx1{
+            font-size: 30px;
+        }
+    }
+    .section2{
+        margin-top: 50px;
+        #Foto1{
+            width: 80%;
+        }
+        #tx1{
+            font-size: 30px;
+            width: 485px;
+        }
+}
+.section1{
+    #h51{
+        font-size: 25px;
+        line-height: 28px;
+        width: 395px;
+    }
+    #pp{
+        font-size: 15px;
+        line-height: 18px;
+        width: 472px;
+    }
+}
+}
